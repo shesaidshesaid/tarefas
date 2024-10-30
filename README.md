@@ -2,7 +2,7 @@
 Projeto de gerenciamento de tarefas usando Spring Boot e React
 
 ### Link para o Projeto em Produção
-O projeto está disponível no Heroku: [https://protected-gorge-65520-26115e348254.herokuapp.com/](https://protected-gorge-65520-26115e348254.herokuapp.com//)
+O projeto está disponível no Heroku: [https://protected-gorge-65520-26115e348254.herokuapp.com/](https://protected-gorge-65520-26115e348254.herokuapp.com/)
 
 ---
 
