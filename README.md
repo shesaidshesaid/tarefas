@@ -1,4 +1,4 @@
-# tarefas02
+# tarefas0
 Projeto de gerenciamento de tarefas usando Spring Boot e React
 
 ### Link para o Projeto em Produção
